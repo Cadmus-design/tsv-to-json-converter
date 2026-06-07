@@ -1,0 +1,5 @@
+{
+  "name": "TSV to JSON Converter",
+  "description": "Convert TSV (Tab-Separated Values) files to JSON format easily.",
+  "requestFramePermissions": []
+}
